@@ -10,5 +10,5 @@ Feel free to reach us via one of the following links:
 - Facebook: fb.me/openemp
 - email: contact@openemp.org
 - Twitter: @openemp
-- Slack: openemp.slack.com
+- Discord: [OpenEMP](https://discord.gg/gmH5Kn5)
 
